@@ -1,5 +1,6 @@
 body {
   color: #587777;
+  background: whitesmoke;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   max-width: 650px;
   margin: 0 auto;
@@ -39,4 +40,18 @@ header a {
 
 .nature-img {
   width: 60%;
+}
+
+input {
+  color: #587777;
+  border: 1px solid #5f9ea083;
+  outline: none;
+  padding: 8px;
+}
+button {
+  cursor: pointer;
+  border: 1px solid #5f9ea083;
+  background: #5f9ea083;
+  color: whitesmoke;
+  padding: 8px;
 }
