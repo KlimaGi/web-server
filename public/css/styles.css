@@ -1,5 +1,33 @@
+body {
+  color: #587777;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  max-width: 650px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+footer {
+  color: cadetblue;
+  border-top: 1px solid #5f9ea083;
+  /* background-color: #5f9ea083; */
+  margin-top: 16px;
+  padding: 16px 0;
+}
+
+header {
+  margin-top: 16px;
+  margin-bottom: 48px;
+}
 h2 {
   color: cadetblue;
+  font-size: 40px;
+  margin-bottom: 16px;
+}
+
+header a {
+  color: #5f8a8a;
+  margin-right: 16px;
+  text-decoration: none;
 }
 
 img {
