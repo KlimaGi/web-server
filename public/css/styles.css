@@ -43,12 +43,14 @@ header a {
 }
 
 input {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   color: #587777;
   border: 1px solid #5f9ea083;
   outline: none;
   padding: 8px;
 }
 button {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   cursor: pointer;
   border: 1px solid #5f9ea083;
   background: #5f9ea083;
