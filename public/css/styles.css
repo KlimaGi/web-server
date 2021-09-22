@@ -7,11 +7,14 @@ body {
   padding: 0 16px;
 
   display: flex;
+
   flex-direction: column;
   min-height: 100vh;
 }
 .main-content {
   flex-grow: 1;
+  display: flex;
+  flex-direction: column;
 }
 
 footer {
@@ -20,6 +23,7 @@ footer {
   /* background-color: #5f9ea083; */
   margin-top: 16px;
   padding: 16px 0;
+  width: 60%;
 }
 
 header {
@@ -36,6 +40,9 @@ header a {
   color: #5f8a8a;
   margin-right: 16px;
   text-decoration: none;
+}
+.text {
+  width: 60%;
 }
 
 .nature-img {
